@@ -36,13 +36,8 @@ void alfabet_defazat()
 
 void afisare1(char sir_dat[])
 {
-	//char sir_dat[50];
 	std::cout << "sir_criptat=";
-	//gets_s(sir_dat);
-	for (char i = 0; i < strlen(sir_dat); i++)
-	{
-		std::cin >> sir_dat[i];
-	}
+
 	for (char j = 0; j < strlen(sir_dat); j++)
 	{
 		if ((sir_dat[j] + key > 122) && ('#' == 32))
