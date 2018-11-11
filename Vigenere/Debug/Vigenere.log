@@ -1,0 +1,6 @@
+﻿  Vigenere.cpp
+c:\users\adriana\source\repos\vigenere\vigenere\vigenere.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\vigenere\vigenere\vigenere.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\vigenere\vigenere\vigenere.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\vigenere\vigenere\vigenere.cpp(60): warning C4018: '<': signed/unsigned mismatch
+  Vigenere.vcxproj -> C:\Users\Adriana\source\repos\Vigenere\Debug\Vigenere.exe
