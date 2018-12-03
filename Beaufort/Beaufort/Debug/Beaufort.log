@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Beaufort.cpp
+c:\users\adriana\source\repos\beaufort\beaufort\beaufort.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\beaufort\beaufort\beaufort.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\beaufort\beaufort\beaufort.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\beaufort\beaufort\beaufort.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  Beaufort.vcxproj -> C:\Users\Adriana\source\repos\Beaufort\Debug\Beaufort.exe
