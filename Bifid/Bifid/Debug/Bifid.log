@@ -1,0 +1,64 @@
+﻿  Bifid.cpp
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(20): error C3861: 'system': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(22): error C2065: 'string': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(22): error C2146: syntax error: missing ';' before identifier 'op'
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(22): error C2065: 'op': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(22): error C2059: syntax error: ']'
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(22): error C2143: syntax error: missing ';' before '{'
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(22): error C2143: syntax error: missing ';' before '}'
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(23): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(23): error C2065: 'op': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(23): error C2065: 'endl': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(24): error C2065: 'cin': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(27): error C3861: 'exit': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(31): error C3861: 'memset': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(32): error C3861: 'system': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(43): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(45): error C2065: 'cin': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(46): error C3861: 'getchar': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(47): error C3861: 'strlen': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(55): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(59): error C2131: expression did not evaluate to a constant
+  c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(59): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(59): note: see usage of 'l'
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(70): error C3863: array type 'int [l+l+]' is not assignable
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(72): error C3863: array type 'int [l+l+]' is not assignable
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(89): error C3863: array type 'int [l+l+]' is not assignable
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(90): error C3863: array type 'int [l+l+]' is not assignable
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(97): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(97): warning C4552: '<<': result of expression not used
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(98): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(98): error C2065: 'endl': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(99): error C3861: 'system': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(101): error C2296: '*': illegal, left operand has type 'int [l+l+]'
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(106): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(107): error C3861: 'gets': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(108): error C3861: 'strlen': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(120): error C3861: 'toupper': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(121): error C3861: 'toupper': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(123): error C3861: 'toupper': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(129): error C3861: 'toupper': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(143): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(146): error C2131: expression did not evaluate to a constant
+  c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(146): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(146): note: see usage of 'in'
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(157): error C3863: array type 'int [in+in+]' is not assignable
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(158): error C3863: array type 'int [in+in+]' is not assignable
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(165): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(165): warning C4552: '<<': result of expression not used
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(166): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(166): error C2065: 'endl': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(167): error C3861: 'system': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(169): error C2296: '*': illegal, left operand has type 'int [in+in+]'
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(172): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(173): error C2065: 'cin': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(174): error C3861: 'getchar': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(175): error C3861: 'strlen': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(182): error C3861: 'toupper': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(184): error C3861: 'toupper': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(185): error C3861: 'toupper': identifier not found
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(214): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(214): error C2065: 'endl': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(220): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(222): error C2065: 'cout': undeclared identifier
+c:\users\adriana\source\repos\bifid\bifid\bifid.cpp(222): error C2065: 'endl': undeclared identifier
