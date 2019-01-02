@@ -1,0 +1,8 @@
+﻿  TranspunerePeColoane.cpp
+c:\users\adriana\source\repos\transpunerepecoloane\transpunerepecoloane\transpunerepecoloane.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\transpunerepecoloane\transpunerepecoloane\transpunerepecoloane.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\transpunerepecoloane\transpunerepecoloane\transpunerepecoloane.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\transpunerepecoloane\transpunerepecoloane\transpunerepecoloane.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\transpunerepecoloane\transpunerepecoloane\transpunerepecoloane.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\transpunerepecoloane\transpunerepecoloane\transpunerepecoloane.cpp(82): warning C4018: '<': signed/unsigned mismatch
+  TranspunerePeColoane.vcxproj -> C:\Users\Adriana\source\repos\TranspunerePeColoane\Debug\TranspunerePeColoane.exe
