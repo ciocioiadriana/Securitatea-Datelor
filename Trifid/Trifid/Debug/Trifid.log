@@ -1,0 +1,11 @@
+﻿  Trifid.cpp
+c:\users\adriana\source\repos\trifid\trifid\trifid.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\adriana\source\repos\trifid\trifid\trifid.cpp(135): warning C4018: '>': signed/unsigned mismatch
+c:\users\adriana\source\repos\trifid\trifid\trifid.cpp(228): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\adriana\source\repos\trifid\trifid\trifid.cpp(231): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\adriana\source\repos\trifid\trifid\trifid.cpp(311): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\adriana\source\repos\trifid\trifid\trifid.cpp(314): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
